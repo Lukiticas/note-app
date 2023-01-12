@@ -7,7 +7,7 @@
 
 <style scoped>
 .app-wrapper {
-  max-width: 80rem;
+  max-width: clamp(30rem, 90vw, 75rem);
   margin-inline: auto;
 }
 </style>
