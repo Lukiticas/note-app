@@ -1,0 +1,10 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  font-family: "roboto", sans-serif;
+}
+
+body {
+  background-color: var(--color-primary);
+}
